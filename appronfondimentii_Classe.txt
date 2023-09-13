@@ -11,3 +11,8 @@ si può fare sempre il download del progetto in remoto e metterli in locale. att
 git clone http: (indirizzio della cartella con la storia anche).
 
 l'altra carateristica e codespace è una featurs che fa parte di github.
+codespace e un computer o machina virtuale. 
+quando si crea un nuovo code space fa git clone con il repositori in automatico. 
+
+le cartelle di coloro verde nel terminale di git e una cartella pubblica che consente l'accesso di tutti.
+con il comando top vengo mostrati tutti i processi che sono in corso in quel momento. 
