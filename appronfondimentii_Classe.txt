@@ -16,3 +16,13 @@ quando si crea un nuovo code space fa git clone con il repositori in automatico.
 
 le cartelle di coloro verde nel terminale di git e una cartella pubblica che consente l'accesso di tutti.
 con il comando top vengo mostrati tutti i processi che sono in corso in quel momento. 
+
+per prima cosa si aggiunge il file 
+git log fa vedere lo storico dei comint che e sempre uno. ogni commint ha un codice bash che e fatto dalla macchina e dipende da cose c'è e che tipo sono i file commitatti.
+
+nella parte grafica che si chiama controllo codice sorgente che permette tramite propunt dei comandi e anche con l'utilizzo del tasto più per aggiungerlo nella stage area.
+
+clicaddo sui file permette di vedere il fine in dui riquadri che mostra a sinistra il codice prima della modifica a destra sono visualizate in verde le righe aggiunte in rosso quelle rimosse.
+
+
+git help everyday da la guida per i comandi nel terminale.
