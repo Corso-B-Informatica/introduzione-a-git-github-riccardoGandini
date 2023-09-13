@@ -25,4 +25,8 @@ nella parte grafica che si chiama controllo codice sorgente che permette tramite
 clicaddo sui file permette di vedere il fine in dui riquadri che mostra a sinistra il codice prima della modifica a destra sono visualizate in verde le righe aggiunte in rosso quelle rimosse.
 
 
+per risovere il problema di descincronizazione le soluzioni sono due il rebase o merge
+
+si va a inserire i commint discordi in ordine cronligico e lo fa dasolo ma se volgio intervenire per decidere su come intrervenire su una hystori e la merge prima di arrivare alla soluzione lui mi va vedere tutti i conflitti e spetta a me sistemarli.
+per fare il rebase uno e configurando git che metta il ribase oppure con il comando pull (rebase).
 git help everyday da la guida per i comandi nel terminale.
