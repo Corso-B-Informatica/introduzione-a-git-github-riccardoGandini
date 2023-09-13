@@ -1,0 +1,1 @@
+Git fa riferimento a una cartelle locale ed e usato come ambiente di sviluppo che permette di vedere la hystori del porgetto per passare a una versione precedende. possiede anche una repositori remoto vuol dire un server che permette di replicare esattamnete cio che ho fatto in maniera locale. 
