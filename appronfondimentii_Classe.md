@@ -6,3 +6,8 @@ per iniziare bisogna leggere la versione nella cartalle locale e nulla viene tra
 git push per mettere le modifiche non in locale ma in cloud e viene replicato tutta la storia dei commit se non viene specificato.
 
 codespace non centra niente con git e solo una featur aggiuntiva
+
+si può fare sempre il download del progetto in remoto e metterli in locale. attenzione viene presa solo il file non la storia per prendere la storia si fa 
+git clone http: (indirizzio della cartella con la storia anche).
+
+l'altra carateristica e codespace è una featurs che fa parte di github.
